@@ -4,7 +4,8 @@
 
 ## Step 1
 
-Complete sections 1-3 of [Dash](https://dash.generalassemb.ly/) and upload screenshots showing completion here:
+Complete sections 1-3 of
+ <a href="https://dash.generalassemb.ly/" target="_blank">Dash</a> and upload screenshots showing completion here:
 
 ## Step 2
 
