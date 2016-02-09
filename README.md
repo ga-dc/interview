@@ -1,4 +1,4 @@
-![GA](https://drive.google.com/a/generalassemb.ly/file/d/0B20xy6SlDP5oUEhmSUFSakRCaDg/view)
+![GA](/images/galogo.png)
 
 # Welcome to the General Assembly DC Web Development Immersive (WDI) Interview Challenge!
 
@@ -9,5 +9,3 @@ Complete sections 1-3 of [Dash](https://dash.generalassemb.ly/) and upload scree
 ## Step 2
 
 Take the DC WDI Interview Challenge [Quiz]()
-
-
