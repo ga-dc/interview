@@ -1,3 +1,5 @@
+[](https://drive.google.com/a/generalassemb.ly/file/d/0B20xy6SlDP5oUEhmSUFSakRCaDg/view)
+
 # Welcome to the General Assembly DC Web Development Immersive (WDI) Interview Challenge!
 
 ## Step 1
