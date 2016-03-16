@@ -1,5 +1,5 @@
 Questions on Quiz: 
-- 1-6 Basic questions for HTML/CSS
+1-6 Basic questions for HTML/CSS
 1. What does it mean for an HTML tag to be "semantic" Give an example
 2. What is the purpose of the <head> tag
 3. How would you select an img tag in CSS? 
