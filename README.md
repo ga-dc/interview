@@ -1,28 +1,17 @@
-![GA](/images/galogo.png)
+Questions on Quiz: 
+- 1-6 Basic questions for HTML/CSS
+1. What does it mean for an HTML tag to be "semantic" Give an example
+2. What is the purpose of the <head> tag
+3. How would you select an img tag in CSS? 
+4. How would you select a div with a class of "main"? 
+5. Given this array - how would you get this element (strawberry) 
+(List of fruits)
+6. Variables 
 
-# Welcome to the General Assembly DC Web Development Immersive (WDI) Interview Challenge!
-
-## Section 1
-
-1. Complete sections 1-3 of
- <a href="https://dash.generalassemb.ly/" target="_blank">Dash</a>
-2. Upload screenshots showing completion [HERE]()
-
-## Section 2
-
-Take the DC WDI Interview Challenge [Quiz]()
-
-## Section 3
-
-You're almost there! Take a deep breath.
-
-![YouCanDoIt](/images/doit.gif)
-
-## Section 4
-
-Complete the 'Color Switcher' Javascript exercise:
-
-1. Click <a href="http://codepen.io/jonrojas13/pen/dGQrEy" target="_blank">HERE</a> to access the exercise on Codepen
-2. Make your own copy of the pen by clicking 'Fork'
-3. Update the script.js file such that when a user clicks on one of the colored dots the background color of the entire page changes to match that dot. You should not need to change any HTML or CSS.
-4. Save your pen and submit your link [HERE]()
+Use google to solve 7-10
+7. Select the correct function that returns "hello" 
+(List of options) 
+8 Given this array - how would you get this element (strawberry) 
+(List of fruits)
+9. Functions 
+10.Another array question?
