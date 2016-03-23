@@ -4,7 +4,7 @@
 
 WDI is a 12-week, full-time program. All day, every day. Learn the skills to become an entry-level web developer and the resources to get a job in this intensive program. 
 
-**Our team is excited to learn more about you and your journey to become a developer! Please complete sections 1-3 of the following application package prior to your on campus interview with the admissions team.**
+**Our team is excited to learn more about you and your journey to become a developer! Please complete the following application package prior to your on campus interview with the admissions team.**
 
 *Incomplete applications will not be considered.*
 
@@ -27,9 +27,9 @@ Complete the 'Color Switcher' Javascript exercise:
 3. Update the script.js file such that when a user clicks on one of the colored dots the background color of the entire page changes to match that dot. You should not need to change any HTML or CSS.
 4. Save your Codepen URL
 
-Submit Code Challenge URLs (Dash - 3, Codepen - 1) [HERE](#)
+**Submit Code Challenge URLs (Dash - 3, Codepen - 1) [HERE](#)**
 
-# Section 3 - Program Application
+# Program Application
 
 Take the DC WDI Interview and complete the Application Questions [HERE](#)
 
